@@ -26,5 +26,6 @@ int main()
     printf("%d\n",count);
     printf("%d\n",A::count);
     fun();
+    printf("你好"); 
     return 0;
 }
